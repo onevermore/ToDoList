@@ -3,7 +3,7 @@
 let
     todoControl = document.querySelector('.todo-control'),
     newInput = document.querySelector('input[placeholder="Какие планы?"]'),
-    btnAdd = document.querySelector('#add'),
+    //btnAdd = document.querySelector('#add'),
     //btnRemove = document.querySelector('.todo-remove'),
 
     
